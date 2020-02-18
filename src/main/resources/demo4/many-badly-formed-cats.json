@@ -1,0 +1,42 @@
+[
+  {
+    "ID": "8e97a266-1722-41f1-8e93-d020c9530f90",
+    "Name": "Marmalade",
+    "Age": 3,
+    "Weight": 10.4,
+    "Owner": {
+      "ID": "d3d5a48f-7c3b-4bd0-99c9-f864c189065d",
+      "Name": "Alex",
+      "Address": {
+        "First Line": "123 Kitten Street",
+        "City": "Leeds"
+      }
+    },
+    "Personality": "Snooty",
+    "Colour": "Ginger"
+  },
+  {
+    "ID": "a8fcf263-e998-4682-92f3-8c5b9a2e0ef4",
+    "Name": "Paprika",
+    "Age": 6,
+    "Weight": 12.2,
+    "Personality": "Useless",
+    "Colour": "Brown"
+  },
+  {
+    "ID": "8d6f30ef-bd5d-475a-856c-fefe1f0b90b7",
+    "Name": "Mr MistoffeLeeds",
+    "Age": 2,
+    "Weight": 7.1,
+    "Personality": "Zippy",
+    "Colour": "Black",
+    "Owner": {
+      "ID": "633c1038-19f7-4604-9315-ec300f11243f",
+      "Name": "Sarah",
+      "Address": {
+        "First Line": "11 Meow Street",
+        "City": "Leeds"
+      }
+    }
+  }
+]

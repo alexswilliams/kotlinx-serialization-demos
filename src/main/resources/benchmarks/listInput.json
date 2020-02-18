@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Marmalade",
+    "ID": "0e8f548a-e792-4b8a-aeba-8fc06ac810a3",
+    "Age": 3,
+    "Weight": 10.4,
+    "Colour": "Ginger"
+  },
+  {
+    "Name": "Paprika",
+    "ID": "a8fcf263-e998-4682-92f3-8c5b9a2e0ef4",
+    "Age": 6,
+    "Weight": 12.2,
+    "Colour": "Ginger"
+  },
+  {
+    "Name": "Mr MistoffeLeeds",
+    "ID": "8d6f30ef-bd5d-475a-856c-fefe1f0b90b7",
+    "Age": 2,
+    "Weight": 7.1,
+    "Colour": "Black"
+  }
+]
